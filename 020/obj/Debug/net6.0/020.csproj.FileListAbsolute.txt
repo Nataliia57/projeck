@@ -1,0 +1,15 @@
+/Users/nataliyaivanova/Desktop/project/examples/020/bin/Debug/net6.0/020
+/Users/nataliyaivanova/Desktop/project/examples/020/bin/Debug/net6.0/020.deps.json
+/Users/nataliyaivanova/Desktop/project/examples/020/bin/Debug/net6.0/020.runtimeconfig.json
+/Users/nataliyaivanova/Desktop/project/examples/020/bin/Debug/net6.0/020.dll
+/Users/nataliyaivanova/Desktop/project/examples/020/bin/Debug/net6.0/020.pdb
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.csproj.AssemblyReference.cache
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.AssemblyInfoInputs.cache
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.AssemblyInfo.cs
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.csproj.CoreCompileInputs.cache
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.dll
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/refint/020.dll
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.pdb
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/020.genruntimeconfig.cache
+/Users/nataliyaivanova/Desktop/project/examples/020/obj/Debug/net6.0/ref/020.dll
