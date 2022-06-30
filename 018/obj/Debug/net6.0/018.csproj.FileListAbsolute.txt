@@ -1,0 +1,15 @@
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.csproj.AssemblyReference.cache
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.AssemblyInfoInputs.cache
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.AssemblyInfo.cs
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.csproj.CoreCompileInputs.cache
+/Users/nataliyaivanova/Desktop/project/examples/018/bin/Debug/net6.0/018
+/Users/nataliyaivanova/Desktop/project/examples/018/bin/Debug/net6.0/018.deps.json
+/Users/nataliyaivanova/Desktop/project/examples/018/bin/Debug/net6.0/018.runtimeconfig.json
+/Users/nataliyaivanova/Desktop/project/examples/018/bin/Debug/net6.0/018.dll
+/Users/nataliyaivanova/Desktop/project/examples/018/bin/Debug/net6.0/018.pdb
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.dll
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/refint/018.dll
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.pdb
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/018.genruntimeconfig.cache
+/Users/nataliyaivanova/Desktop/project/examples/018/obj/Debug/net6.0/ref/018.dll
