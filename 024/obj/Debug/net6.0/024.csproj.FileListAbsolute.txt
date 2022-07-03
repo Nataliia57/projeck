@@ -1,0 +1,15 @@
+/Users/nataliyaivanova/Desktop/project/examples/024/bin/Debug/net6.0/024
+/Users/nataliyaivanova/Desktop/project/examples/024/bin/Debug/net6.0/024.deps.json
+/Users/nataliyaivanova/Desktop/project/examples/024/bin/Debug/net6.0/024.runtimeconfig.json
+/Users/nataliyaivanova/Desktop/project/examples/024/bin/Debug/net6.0/024.dll
+/Users/nataliyaivanova/Desktop/project/examples/024/bin/Debug/net6.0/024.pdb
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.csproj.AssemblyReference.cache
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.AssemblyInfoInputs.cache
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.AssemblyInfo.cs
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.csproj.CoreCompileInputs.cache
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.dll
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/refint/024.dll
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.pdb
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/024.genruntimeconfig.cache
+/Users/nataliyaivanova/Desktop/project/examples/024/obj/Debug/net6.0/ref/024.dll
